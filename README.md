@@ -1,1 +1,1 @@
-# SeLion Read me firt
+# SeLion Read me first
